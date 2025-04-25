@@ -147,10 +147,10 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold mb-4">What Makes WritePro Awesome?</h2>
             <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8 text-left">
               {[
-                "AI-powered writing suggestions and rewrites",
+                "AI-powered writing templates ",
                 "One-click formatting for APA, MLA, Chicago, and more",
-                "500+ professional templates",
-                "Real-time cloud sync and version history",
+                "50+ professional templates",
+                "Real-time content history",
                 "Privacy-focused, secure infrastructure",
                 "Beautiful interface for effortless editing"
               ].map((item, idx) => (

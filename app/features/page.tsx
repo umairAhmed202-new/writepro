@@ -32,7 +32,7 @@ const FeaturesPage = () => {
     {
       icon: <RefreshCw className="w-6 h-6" />,
       title: 'Instant Rewrites',
-      description: 'AI-powered sentence rewrites while preserving your original meaning',
+      description: 'Revise sentences instantly within the WritePro editor rewrites that retain your original intent',
       color: 'text-purple-600'
     },
     {
@@ -44,19 +44,19 @@ const FeaturesPage = () => {
     {
       icon: <Library className="w-6 h-6" />,
       title: 'Templates Library',
-      description: '500+ professional templates for all writing needs',
+      description: '50+ professional templates for all writing needs',
       color: 'text-amber-600'
     },
     {
       icon: <Zap className="w-6 h-6" />,
       title: 'One-Click Formatting',
-      description: 'Perfectly formatted documents in seconds',
+      description: 'Perfectly formatted content in seconds',
       color: 'text-green-600'
     },
     {
       icon: <Cloud className="w-6 h-6" />,
-      title: 'Cloud Sync & Backup',
-      description: 'Automatic version history and cloud backups',
+      title: 'Backup',
+      description: 'Automatic version history and backups',
       color: 'text-sky-600'
     },
     {
