@@ -248,8 +248,8 @@ export default function Home() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                 </svg>
               ),
-              title: "Scheduling",
-              description: "Plan and schedule your content in advance",
+              title: "Built-in Templates",
+              description: "Kickstart your writing with professionally designed WritePro templates for every content type",
             },
             {
               icon: (
@@ -258,7 +258,7 @@ export default function Home() {
                 </svg>
               ),
               title: "Mobile Friendly",
-              description: "Create content on the go with our mobile app",
+              description: "Enjoy a seamless, responsive writing experience across all screen sizes—desktop, tablet, and mobile",
             },
           ].map((feature, index) => (
             <div key={index} className="bg-white dark:bg-neutral-800 rounded-xl shadow-md p-8 hover:shadow-lg transition-shadow duration-300">
@@ -306,7 +306,7 @@ export default function Home() {
                   </svg>
                 ),
                 title: "Reliable Quality",
-                description: "Our AI has been trained on millions of high-quality documents to ensure professional results every time."
+                description: "Our AI has been trained on millions of high-quality templates to ensure professional results every time."
               },
               {
                 icon: (
@@ -315,7 +315,7 @@ export default function Home() {
                   </svg>
                 ),
                 title: "Always Improving",
-                description: "Our AI continuously learns from user feedback and new data to deliver better results over time."
+                description: "Our AI continuously learns from user prompt and new data to deliver better results over time."
               },
               {
                 icon: (
