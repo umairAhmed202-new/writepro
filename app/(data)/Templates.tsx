@@ -1773,7 +1773,7 @@ export default [
       name: 'Video Script Template',
       desc: 'Generate scripts for YouTube videos or presentations',
       category: 'Video',
-      icon: 'https://cdn-icons-png.flaticon.com/128/1384/1384023.png',
+      icon: 'https://cdn-icons-png.flaticon.com/128/11186/11186798.png',
       slug: 'video-script',
       aiPrompt: 'Write a 5-minute video script about [topic] with introduction, main points, and conclusion',
       form: [
