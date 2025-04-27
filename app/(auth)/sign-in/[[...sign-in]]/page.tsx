@@ -3,8 +3,7 @@ import Link from "next/link";
 
 export default function Page() {
   return (
-    <div className="flex h-screen flex-row-reverse"> {/* Added flex-row-reverse to flip the layout */}
-      {/* Right side with background and text */}
+    <div className="flex h-screen flex-row-reverse"> 
       <div className="hidden md:flex flex-col items-center justify-center w-1/2 bg-gradient-to-br from-blue-500 to-purple-600 text-white p-8">
         <div className="max-w-md">
           <h1 className="text-4xl font-bold mb-6">Welcome Back to WritePro</h1>
